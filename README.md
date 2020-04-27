@@ -1,1 +1,2 @@
 # Newsletter
+HTML4
